@@ -84,7 +84,7 @@ function Project(props) {
         <div className="static">
           <Project_card
             name="Charity Finder"
-            src="charityfinder.png"
+            src="charityFinder.png"
             ts="Flutter, Dart, Firebase, CharityFinder API"
             desc={s[7]}
             link="https://github.com/Ayush-Raghuwanshi/Avathon"
