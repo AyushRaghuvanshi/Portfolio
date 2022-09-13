@@ -20,7 +20,7 @@ function Home_page(props) {
         style={style}
         onMouseEnter={() => setishovered(true)}
         onMouseLeave={() => setishovered(false)}
-        className=" h-[500px] w-[500px] rounded-full  "
+        className=" h-[500px] w-[500px] rounded-full"
       >
         <Techstack name="flutter.png" num="11" index="0" hov={ishovered} />
         <Techstack name="firebase.png" num="11" index="1" hov={ishovered} />
